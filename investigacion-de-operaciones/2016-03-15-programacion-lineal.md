@@ -17,13 +17,18 @@ Para estos problemas se disponen métodos de solución muy eficiente, tales como
 
 ## Solución de Problemas de Programación Lineal por el Método Gráfico
 
-El **método gráfico** se emplea para resolver problemas que presentan **solo dos variables de decisión**. El procedimiento consiste en trazar las ecuaciones de las restricciones en un eje de coordenadas `(x1, x2)` para tratar de identificar el área de solución factible (la solución que cumple con todas las restricciones). La solución óptima del problema se encuentra en uno de los vértices de esta área de solución creada, por lo que se buscara en estos datos el valor mínimo o máximo del problema, Se analizan estos valores/datos en la función objetivo y el vértice que representa el mejor valor de la función objetivo será la solución óptima.
+El **método gráfico** se emplea para resolver problemas que presentan **solo dos variables de decisión**. El procedimiento consiste en trazar las ecuaciones de las restricciones en un eje de coordenadas `(x1, x2)` para tratar de identificar el área de solución factible (la solución que cumple con todas las restricciones). 
+
+La solución óptima del problema se encuentra en uno de los vértices de esta área de solución creada, por lo que se buscara en estos datos el valor mínimo o máximo del problema, Se analizan estos valores/datos en la función objetivo y el vértice que representa el mejor valor de la función objetivo será la solución óptima.
 
 #### Ejemplo:
 
 > Una compañía de auditores se especializa en preparar liquidaciones y auditorías a empresas pequeñas, tiene interés en saber cuántas auditorías y liquidaciones pueden realizar mensualmente para maximizar sus ingresos.
+
 > Se dispone de `800` horas de *trabajo directo* y `320` horas para *revisión*.
+
 > *Una auditoría* en promedio requiere de `40` horas de *trabajo directo* y `10` horas de *revisión* y aporta un ingreso de `$300`.
+
 > Una liquidación de impuesto requiere de `8` horas de *trabajo directo* y `5` horas de *revisión*, produce un ingreso de `$100` y el máximo de liquidaciones mensuales disponibles es de `60`.
 
 #### Solución:
@@ -55,4 +60,3 @@ El **método gráfico** se emplea para resolver problemas que presentan **solo d
 **Gráfica**
 
 ![grafica](fotos/IMG_20160315_083948.jpg)
-
