@@ -39,7 +39,7 @@ El **método gráfico** se emplea para resolver problemas que presentan **solo d
 2. tiempo disponible de revisión: 320 horas 
 3. número máximo de liquidaciones: 60.
 
-**Maximizar:**
+**Maximizar:**  
 `Z = 300 x1 + 100 x2`
 
 **Condiciones:**  
