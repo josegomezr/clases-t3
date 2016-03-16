@@ -53,8 +53,11 @@ La solución óptima del problema se encuentra en uno de los vértices de esta �
 **Condiciones:**
 
 `40 x1 + 8 x2 <= 800`
+
 `10 x1 + 5 x2 <= 320 `
+
 `x2 <= 60 `
+
 `x1,x2 >= 0 `
 
 **Gráfica**
