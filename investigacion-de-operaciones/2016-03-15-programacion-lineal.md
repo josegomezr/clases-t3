@@ -30,11 +30,11 @@ El **método gráfico** se emplea para resolver problemas que presentan **solo d
 
 **Objetivo: ** Maximizar los ingresos 
 
-**Variables de decisión:**
+**Variables de decisión:**  
 1. cantidad de auditorías (x1)
 2. cantidad de liquidaciones (x2)
 
-**Restricciones:**
+**Restricciones:**  
 1. tiempo disponible de trabajo directo: 800 horas.
 2. tiempo disponible de revisión: 320 horas 
 3. número máximo de liquidaciones: 60.
@@ -42,11 +42,12 @@ El **método gráfico** se emplea para resolver problemas que presentan **solo d
 **Maximizar:**
 `Z = 300 x1 + 100 x2`
 
-**Condiciones:**
+**Condiciones:**  
 `40 x1 + 8 x2 <= 800`
 `10 x1 + 5 x2 <= 320 `
 `x2 <= 60 `
 `x1,x2 >= 0 `
 
+**Gráfica**
 ![grafica](fotos/IMG_20160315_083948.jpg)
 
